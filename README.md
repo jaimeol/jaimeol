@@ -8,8 +8,7 @@ My GitHub is a reflection of my journey in software development, showcasing proj
 Thank you for visiting my profile. I hope you enjoy exploring my work and find inspiration for your own journey in software development.
 
 Also here is my 42 intra profile if you want to check my progression in the cursus
+
 👇
-
-
 
 [jolivare](https://profile.intra.42.fr/users/jolivare)
