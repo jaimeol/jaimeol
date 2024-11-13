@@ -19,3 +19,9 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
 - 🎓 Student at 42 Madrid and UNED.
 - 🔧 Focusing on systems programming and algorithms.
 - 🌱 Currently learning Linux development.
+
+### 📊 GitHub Stats
+
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeol&show_icons=true&theme=default&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeol&layout=compact&theme=default)
