@@ -10,7 +10,6 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
 - [**printf**](https://github.com/jaimeol/printf): Recreation of the C standard library function `printf` with custom format handling.
 - [**gnl**](https://github.com/jaimeol/gnl): Implementation of `get_next_line` in C.
 - [**push_swap**](https://github.com/jaimeol/push_swap): Sorting algorithm project that simulates stack manipulation.
-- [**cub3d**](https://github.com/jaimeol/cub3d): A basic raycasting project inspired by Wolfenstein 3D, including a moving minimap and texture rendering.
 - [**pipex**](https://github.com/jaimeol/pipex): A project to simulate the shell's pipeline behavior with redirection, and an implementation of `here_doc`.
 - [**philosophers**](https://github.com/jaimeol/philosophers): A concurrency and synchronization project simulating the dining philosophers problem.
 - [**minishell**](https://github.com/jaimeol/minishell): Shell implementation with basic command parsing, redirection, and a built-in set of commands.
