@@ -23,6 +23,7 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
 
 ### 📊 GitHub Stats
 
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeol&show_icons=true&theme=default&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeol&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeol&layout=compact&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeol&layout=compact&theme=dark)
