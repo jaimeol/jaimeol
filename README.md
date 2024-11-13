@@ -3,7 +3,9 @@
 I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub reflects my journey in software development, showcasing projects that illustrate my progress and ongoing learning.
 
 ### 🛠️ Technologies & Tools
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  ![Makefile](https://img.shields.io/badge/Makefile-%23E2E2E2.svg?style=flat-square) ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat-square&logo=git&logoColor=white)
+
+
 
 ### 📂 Featured Projects
 - [**libft**](https://github.com/jaimeol/libft): Custom C library with standard functions and utility tools.
