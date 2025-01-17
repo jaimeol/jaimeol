@@ -17,7 +17,7 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
   - [**pipex**](https://github.com/jaimeol/pipex): A project to simulate the shell's pipeline behavior with redirection, and an implementation of `here_doc`.
   - [**philosophers**](https://github.com/jaimeol/philosophers): A concurrency and synchronization project simulating the dining philosophers problem.
   - [**minishell**](https://github.com/jaimeol/minishell): Shell implementation with basic command parsing, redirection, and a built-in set of commands.
-  - [**Cpp Batch 1**](https://github.com/jaimeol/CppBatch1): Couple of C++ to start learning the language.
+  - [**Cpp Batch 1**](https://github.com/jaimeol/CppBatch1): Couple of C++ exercises to start learning the language.
 
 
 UNED:
