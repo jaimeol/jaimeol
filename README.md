@@ -18,6 +18,9 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
   - [**philosophers**](https://github.com/jaimeol/philosophers): A concurrency and synchronization project simulating the dining philosophers problem.
   - [**minishell**](https://github.com/jaimeol/minishell): Shell implementation with basic command parsing, redirection, and a built-in set of commands.
   - [**Cpp Batch 1**](https://github.com/jaimeol/CppBatch1): Couple of C++ exercises to start learning the language.
+  - [**Cub3d**](https://github.com/jaimeol/Cub3d): A 3D raycasting game engine project where I implemented the raycasting algorithm using MiniLibX, handling textures,
+
+    map parsing, and player movement in a 3D environment
 
 
 UNED:
