@@ -26,8 +26,8 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
 - [**pipex**](https://github.com/jaimeol/pipex): Simulates shell pipelines and redirections, including `here_doc`.  
 - [**philosophers**](https://github.com/jaimeol/philosophers): A concurrency project modeling the dining philosophers problem.  
 - [**minishell**](https://github.com/jaimeol/minishell): Shell implementation with command parsing, built-ins, and redirections.  
-- [**Cpp Modules 00–01**](https://github.com/jaimeol/CppBatch1): Initial modules introducing C++ concepts like OOP, overloading, and Orthodox Canonical Form.  
-- [**Cpp Modules 02–04**](https://github.com/jaimeol/CppBatch2): Intermediate modules covering inheritance, polymorphism, abstract classes, and dynamic memory.  
+- [**Cpp Modules 00–04**](https://github.com/jaimeol/CppBatch1): Initial modules introducing C++ concepts like OOP, overloading, and Orthodox Canonical Form.  
+- [**Cpp Modules 05–09**](https://github.com/jaimeol/Cpp_Batch_2): Intermediate modules covering inheritance, polymorphism, abstract classes, and dynamic memory.  
 - [**Cub3d**](https://github.com/jaimeol/Cub3d): A 3D raycasting engine using MiniLibX, featuring textures, animated sprites, minimap, doors, and mouse camera movement.  
 - [**webserv**](https://github.com/jaimeol/webserv): HTTP/1.1 web server in C++ with support for CGI, file uploads, custom error pages, virtual hosts, and `poll()`-based concurrency.  
 
