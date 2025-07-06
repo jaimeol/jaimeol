@@ -34,7 +34,7 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
 #### 🎓 UNED
 
 - [**GesRAE**](https://github.com/jaimeol/gesRAE): Program to manage an apartment rental system.
-- [**eco-mobility**](https://github.com/jaimeol/eco-mobility): Program to managa a vehicule rental system.
+- [**eco-mobility**](https://github.com/jaimeol/eco-mobility): Program to manage a vehicule rental system.
 
 ---
 
