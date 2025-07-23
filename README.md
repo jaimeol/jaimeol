@@ -43,9 +43,12 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
 
 ### 💡 About Me
 
-- 🎓 Student at 42 Madrid and UNED.  
-- 🔧 Focusing on systems programming and algorithms.  
-- 🌱 Currently learning Linux development.
+- 🎓 I'm currently studying at 42 Madrid and pursuing a degree in Computer Engineering at UNED.
+- ⚙️ Passionate about systems programming, low-level development, and software architecture.
+- 🐧 Enjoy working with Linux, C/C++, Docker, and building everything from simple libraries to full shell environments and HTTP servers.
+- 🚀 Always looking to deepen my understanding of how systems work under the hood.
+- 🌍 Interested in backend, OS internals, and infrastructure tooling.
+- 📘 Currently learning about operating systems, networking, and advanced C++ design patterns.
 
 ---
 
