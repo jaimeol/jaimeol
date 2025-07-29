@@ -18,21 +18,31 @@ I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub refl
 
 ### 📂 Featured Projects
 
-#### 🧱 42 Projects
+### 🧱 42 Projects
 
-- [**libft**](https://github.com/jaimeol/libft): Custom C library with standard functions and utility tools.  
-- [**printf**](https://github.com/jaimeol/printf): Recreation of the C standard library function `printf` with custom format handling.  
-- [**gnl**](https://github.com/jaimeol/gnl): Implementation of `get_next_line` in C.  
-- [**push_swap**](https://github.com/jaimeol/push_swap): Sorting algorithm project that simulates stack manipulation.  
-- [**so_long**](https://github.com/jaimeol/so_long): 2D game using MiniLibX graphics library.  
-- [**pipex**](https://github.com/jaimeol/pipex): Simulates shell pipelines and redirections, including `here_doc`.  
-- [**philosophers**](https://github.com/jaimeol/philosophers): A concurrency project modeling the dining philosophers problem.  
-- [**minishell**](https://github.com/jaimeol/minishell): Shell implementation with command parsing, built-ins, and redirections.  
-- [**Cpp Modules 00–04**](https://github.com/jaimeol/CppBatch1): Covers C++ basics, orthodox canonical form, inheritance, and polymorphism.  
-- [**Cpp Modules 05–09**](https://github.com/jaimeol/Cpp_Batch_2): Covers casting, containers, templates, and exception handling.  
-- [**Cub3d**](https://github.com/jaimeol/Cub3d): A 3D raycasting engine using MiniLibX, featuring textures, animated sprites, minimap, doors, and mouse camera movement.  
-- [**webserv**](https://github.com/jaimeol/webserv): HTTP/1.1 web server in C++ with support for CGI, file uploads, custom error pages, virtual hosts, and `poll()`-based concurrency.  
-- [**Inception**](https://github.com/jaimeol/Inception): Docker-based project simulating a microservices architecture with multiple containers for web server, database, and services, demonstrating container orchestration and deployment in a Linux environment.
+#### 🧩 Foundations (C, Unix, Algorithms)
+- [`libft`](https://github.com/jaimeol/libft): Core C library with reimplemented standard functions (`memcpy`, `atoi`, `strdup`, etc.).
+- [`printf`](https://github.com/jaimeol/printf): Custom `printf` implementation with format parsing and variadic arguments.
+- [`gnl`](https://github.com/jaimeol/gnl): Line-by-line file reader in C using static buffers.
+- [`push_swap`](https://github.com/jaimeol/push_swap): Sorting algorithm visualizer using stack operations under tight instruction constraints.
+
+#### 🖼️ Graphics & Game Dev
+- [`so_long`](https://github.com/jaimeol/so_long): Simple 2D game built with MiniLibX (graphics engine), with pathfinding and map parsing.
+- [`Cub3d`](https://github.com/jaimeol/Cub3d): Raycasting 3D engine in C with textures, animated sprites, doors, minimap, and mouse-controlled camera.
+
+#### 💻 Systems Programming
+- [`pipex`](https://github.com/jaimeol/pipex): Shell-like pipeline manager handling redirections and `here_doc`.
+- [`philosophers`](https://github.com/jaimeol/philosophers): Classic multithreading challenge simulating the dining philosophers using pthreads.
+- [`minishell`](https://github.com/jaimeol/minishell): Fully functioning Unix shell with parsing, built-ins, `dup`-based redirections, and job control.
+
+#### 🧪 C++ Object-Oriented Programming
+- [`Cpp Modules 00–04`](https://github.com/jaimeol/CppBatch1): Covers OOP basics, constructors, canonical form, inheritance, and polymorphism.
+- [`Cpp Modules 05–09`](https://github.com/jaimeol/Cpp_Batch_2): Advanced C++ features: casting, exceptions, templates, containers (e.g. `std::vector`, `map`).
+
+#### 🌐 Networking & DevOps
+- [`webserv`](https://github.com/jaimeol/webserv): HTTP/1.1 server in C++ with CGI, file uploads, custom error pages, and concurrency via `poll()`.
+- [`Inception`](https://github.com/jaimeol/Inception): Docker-based project setting up NGINX, WordPress, MariaDB with TLS, secrets, and isolated containers.
+
 
 #### 🎓 UNED
 
