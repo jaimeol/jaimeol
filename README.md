@@ -1,22 +1,26 @@
+Vale de momento he puesto esto y me gusta:
+
 # 👋 Hello, I'm Jaime!
 
-I'm a student at 42 Madrid and also studying Informatics at UNED. My GitHub reflects my journey in software development, showcasing projects that illustrate my progress and ongoing learning.
+- 🎓 42 Madrid student & Computer Engineering UNED  
+- 🧠 I build low-level systems, web servers, and tools from scratch  
+- 🛠️ Passionate about systems programming, OS internals, and backend infrastructure  
+- 🌱 Always learning – currently diving into networking, Linux dev, and C++ design patterns  
+
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🧰 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-ffffff?style=flat&logo=gnubash&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-%23E2E2E2.svg?style=flat-square)
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
 
 ### 🧱 42 Projects
 
