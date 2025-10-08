@@ -1,4 +1,3 @@
-Vale de momento he puesto esto y me gusta:
 
 # 👋 Hello, I'm Jaime!
 
