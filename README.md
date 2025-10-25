@@ -1,71 +1,67 @@
-
 # 👋 Hello, I'm Jaime!
 
-- 🎓 42 Madrid student & Computer Engineering UNED  
-- 🧠 I build low-level systems, web servers, and tools from scratch  
-- 🛠️ Passionate about systems programming, OS internals, and backend infrastructure  
-- 🌱 Always learning – currently diving into networking, Linux dev, and C++ design patterns  
-
-
----
-
-### 🧰 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-ffffff?style=flat&logo=gnubash&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+-   🎓 Student at 42 Madrid & Computer Engineering Undergraduate at UNED.
+-   💻 Focused on systems programming, web server development, and backend infrastructure.
+-   🛠️ Experienced in building software from fundamental components, including libraries, shells, graphical engines, and web applications.
+-   🌱 Currently deepening expertise in networking protocols, Linux systems development, and advanced C++ patterns.
 
 ---
 
+### 🧰 Technical Skills
 
-### 🧱 42 Projects
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-ffffff?style=flat&logo=gnubash&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🧱 Selected Projects (42 Curriculum)
 
 #### 🧩 Foundations (C, Unix, Algorithms)
-- [`libft`](https://github.com/jaimeol/libft): Core C library with reimplemented standard functions (`memcpy`, `atoi`, `strdup`, etc.).
-- [`printf`](https://github.com/jaimeol/printf): Custom `printf` implementation with format parsing and variadic arguments.
-- [`gnl`](https://github.com/jaimeol/gnl): Line-by-line file reader in C using static buffers.
-- [`push_swap`](https://github.com/jaimeol/push_swap): Sorting algorithm visualizer using stack operations under tight instruction constraints.
 
-#### 🖼️ Graphics & Game Dev
-- [`so_long`](https://github.com/jaimeol/so_long): Simple 2D game built with MiniLibX (graphics engine), with pathfinding and map parsing.
-- [`Cub3d`](https://github.com/jaimeol/Cub3d): Raycasting 3D engine in C with textures, animated sprites, doors, minimap, and mouse-controlled camera.
+-   [`libft`](https://github.com/jaimeol/libft): Custom C library implementing core libc functions.
+-   [`printf`](https://github.com/jaimeol/printf): Implementation of the `printf` function with format specifier parsing.
+-   [`gnl`](https://github.com/jaimeol/gnl): Efficient line-by-line file reader using static variables.
+-   [`push_swap`](https://github.com/jaimeol/push_swap): Algorithm optimizing stack sorting operations within strict constraints.
+
+#### 🖼️ Graphics & Game Development
+
+-   [`so_long`](https://github.com/jaimeol/so_long): 2D game using MiniLibX graphics library, featuring map parsing and basic pathfinding.
+-   [`Cub3d`](https://github.com/jaimeol/Cub3d): Wolfenstein 3D-style raycasting engine in C with texture mapping, sprites, and mouse look.
 
 #### 💻 Systems Programming
-- [`pipex`](https://github.com/jaimeol/pipex): Shell-like pipeline manager handling redirections and `here_doc`.
-- [`philosophers`](https://github.com/jaimeol/philosophers): Classic multithreading challenge simulating the dining philosophers using pthreads.
-- [`minishell`](https://github.com/jaimeol/minishell): Fully functioning Unix shell with parsing, built-ins, `dup`-based redirections, and job control.
+
+-   [`pipex`](https://github.com/jaimeol/pipex): Unix pipeline simulation handling I/O redirection and command execution.
+-   [`philosophers`](https://github.com/jaimeol/philosophers): Concurrent programming simulation solving the dining philosophers problem using pthreads and mutexes.
+-   [`minishell`](https://github.com/jaimeol/minishell): Functional Unix shell implementation featuring command parsing, built-ins, redirections, pipes, and signal handling.
 
 #### 🧪 C++ Object-Oriented Programming
-- [`Cpp Modules 00–04`](https://github.com/jaimeol/CppBatch1): Covers OOP basics, constructors, canonical form, inheritance, and polymorphism.
-- [`Cpp Modules 05–09`](https://github.com/jaimeol/Cpp_Batch_2): Advanced C++ features: casting, exceptions, templates, containers (e.g. `std::vector`, `map`).
 
-#### 🌐 Networking & DevOps
-- [`webserv`](https://github.com/jaimeol/webserv): HTTP/1.1 server in C++ with CGI, file uploads, custom error pages, and concurrency via `poll()`.
-- [`Inception`](https://github.com/jaimeol/Inception): Docker-based project setting up NGINX, WordPress, MariaDB with TLS, secrets, and isolated containers.
+-   [`Cpp Modules 00–04`](https://github.com/jaimeol/CppBatch1): Introduction to C++ OOP concepts, including classes, inheritance, polymorphism, and abstract classes.
+-   [`Cpp Modules 05–09`](https://github.com/jaimeol/Cpp_Batch_2): Exploration of advanced C++ features like exceptions, templates, STL containers, and casting.
 
+#### 🌐 Networking & Full Stack Development
 
-#### 🎓 UNED
+-   [`webserv`](https://github.com/jaimeol/webserv): Custom HTTP/1.1 web server in C++ supporting static file serving, CGI execution, configuration parsing, and concurrent connections via `poll()`.
+-   [`Inception`](https://github.com/jaimeol/Inception): Multi-container web service deployment using Docker Compose (NGINX, WordPress, MariaDB) with TLS and volume management.
+-   [`ft_transcendence`](https://github.com/jaimeol/ft_transcendence): A full-stack SPA featuring real-time multiplayer Pong & Tic Tac Toe, user authentication (incl. Google OAuth), profiles, friends system, chat (WebSockets), tournaments, statistics, and translation support (EN/ES/FR). Built with Node.js/Fastify (Backend), Vanilla TypeScript (Frontend), SQLite, and Docker.
 
-- [**GesRAE**](https://github.com/jaimeol/gesRAE): Program to manage an apartment rental system.
-- [**eco-mobility**](https://github.com/jaimeol/eco-mobility): Program to manage a vehicle rental system.
+#### 🎓 UNED Projects
+
+-   [**GesRAE**](https://github.com/jaimeol/gesRAE): Java application for managing apartment rentals.
+-   [**eco-mobility**](https://github.com/jaimeol/eco-mobility): Java application for managing a vehicle rental system.
 
 ---
 
 ### 💡 About Me
 
-- 🎓 I'm currently studying at 42 Madrid and pursuing a degree in Computer Engineering at UNED.
-- ⚙️ Passionate about systems programming, low-level development, and software architecture.
-- 🐧 Enjoy working with Linux, C/C++, Docker, and building everything from simple libraries to full shell environments and HTTP servers.
-- 🚀 Always looking to deepen my understanding of how systems work under the hood.
-- 🌍 Interested in backend, OS internals, and infrastructure tooling.
-- 📘 Currently learning about operating systems, networking, and advanced C++ design patterns.
+-   🎓 Dual focus on practical software engineering through 42 Madrid and theoretical computer science fundamentals via UNED.
+-   ⚙️ Strong interest in the underlying mechanisms of operating systems, networking, and distributed systems.
+-   🐧 Proficient in Linux environments and adept at utilizing C, C++, and system APIs for low-level development.
+-   🚀 Enthusiastic about building robust backend systems and infrastructure tooling using modern practices like containerization with Docker.
+-   📘 Continuously expanding knowledge in areas such as OS design, network protocols, advanced C++ techniques, and scalable system architecture.
 
 ---
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeol&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeol&layout=compact&theme=dark)
