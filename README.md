@@ -63,5 +63,4 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeol&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeol&layout=compact&theme=dark)
+![GitHub Metrics](https://github.com/jaimeol/jaimeol/blob/main/github-metrics.svg)
