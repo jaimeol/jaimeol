@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Se ejecuta cada 24 horas
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutarlo manualmente desde la pestaña Actions para probar
+  workflow_dispatch:
+  # Se ejecuta cuando haces push a la rama master o main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tu token secreto
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Opciones básicas
+          user: jaimeol
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Madrid
+          
+          # Nombre del archivo que se generará
+          filename: github-metrics.svg
