@@ -14,14 +14,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Tu token secreto
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Opciones básicas
           user: jaimeol
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
-          
-          # Nombre del archivo que se generará
           filename: github-metrics.svg
+          
+          # --- AQUI EMPIEZA LA PARTE DE LENGUAJES ---
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
+          # -------------------------------------------
