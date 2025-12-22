@@ -38,6 +38,10 @@
 -   [`Cpp Modules 00–04`](https://github.com/jaimeol/CppBatch1): Introduction to C++ OOP concepts, including classes, inheritance, polymorphism, and abstract classes.
 -   [`Cpp Modules 05–09`](https://github.com/jaimeol/Cpp_Batch_2): Exploration of advanced C++ features like exceptions, templates, STL containers, and casting.
 
+#### ☕ Java & Design Patterns
+
+-   [`avaj-launcher`](https://github.com/jaimeol/avaj-launcher): Flight simulation system in Java implementing the **Observer**, **Factory**, and **Singleton** design patterns to manage aircraft behavior under dynamic weather conditions.
+
 #### 🌐 Networking & Full Stack Development
 
 -   [`webserv`](https://github.com/jaimeol/webserv): Custom HTTP/1.1 web server in C++ supporting static file serving, CGI execution, configuration parsing, and concurrent connections via `poll()`.
