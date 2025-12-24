@@ -50,7 +50,7 @@
 
 #### 🎓 UNED Projects
 
--   [**GesRAE**](https://github.com/jaimeol/gesRAE): Java application for managing apartment rentals.
+-   [**GesRAE**](https://github.com/jaimeol/gesRAE): Application for managing apartment rentals.
 -   [**eco-mobility**](https://github.com/jaimeol/eco-mobility): Java application for managing a vehicle rental system.
 
 ---
