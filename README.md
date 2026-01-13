@@ -48,12 +48,6 @@
 -   [`Inception`](https://github.com/jaimeol/Inception): Multi-container web service deployment using Docker Compose (NGINX, WordPress, MariaDB) with TLS and volume management.
 -   [`ft_transcendence`](https://github.com/jaimeol/ft_transcendence): A full-stack SPA featuring real-time multiplayer Pong & Tic Tac Toe, user authentication (incl. Google OAuth), profiles, friends system, chat (WebSockets), tournaments, statistics, and translation support (EN/ES/FR). Built with Node.js/Fastify (Backend), Vanilla TypeScript (Frontend), SQLite, and Docker.
 
-#### 🎓 UNED Projects
-
--   [**GesRAE**](https://github.com/jaimeol/gesRAE): Application for managing apartment rentals.
--   [**eco-mobility**](https://github.com/jaimeol/eco-mobility): Java application for managing a vehicle rental system.
-
----
 
 ### 💡 About Me
 
@@ -63,8 +57,3 @@
 -   🚀 Enthusiastic about building robust backend systems and infrastructure tooling using modern practices like containerization with Docker.
 -   📘 Continuously expanding knowledge in areas such as OS design, network protocols, advanced C++ techniques, and scalable system architecture.
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Metrics](https://github.com/jaimeol/jaimeol/blob/main/github-metrics.svg)
