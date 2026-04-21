@@ -57,3 +57,6 @@
 -   🚀 Enthusiastic about building robust backend systems and infrastructure tooling using modern practices like containerization with Docker.
 -   📘 Continuously expanding knowledge in areas such as OS design, network protocols, advanced C++ techniques, and scalable system architecture.
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimeol&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeol&layout=compact&theme=dark)
