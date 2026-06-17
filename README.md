@@ -50,7 +50,7 @@
 
 ### 🍃 Leaffliction
 
--   [`leaffliction`](https://github.com/jaimeol/leaffliction): A personal project section highlighting ongoing work and experimentation around Leaffliction.
+-   [`leaffliction`](https://github.com/jaimeol/leaffliction): Repository for the Leaffliction project, including implementation details and ongoing development updates.
 
 
 ### 💡 About Me
