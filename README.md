@@ -48,9 +48,10 @@
 -   [`Inception`](https://github.com/jaimeol/Inception): Multi-container web service deployment using Docker Compose (NGINX, WordPress, MariaDB) with TLS and volume management.
 -   [`ft_transcendence`](https://github.com/jaimeol/ft_transcendence): A full-stack SPA featuring real-time multiplayer Pong & Tic Tac Toe, user authentication (incl. Google OAuth), profiles, friends system, chat (WebSockets), tournaments, statistics, and translation support (EN/ES/FR). Built with Node.js/Fastify (Backend), Vanilla TypeScript (Frontend), SQLite, and Docker.
 
-### 🤖 AI
+### 🤖 AI & Data Science
 
 -   [`leaffliction`](https://github.com/jaimeol/leaffliction): AI-based Python project for plant leaf disease detection and classification using PyTorch and computer vision tooling.
+-   [`ft_linear_regression`](https://github.com/jaimeol/ft_linear_regression): Introductory machine learning project implementing linear regression for predictive data analysis.
 
 
 ### 💡 About Me
