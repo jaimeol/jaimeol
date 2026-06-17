@@ -50,7 +50,7 @@
 
 ### 🍃 Leaffliction
 
--   [`leaffliction`](https://github.com/jaimeol/leaffliction): Repository for the Leaffliction project, including implementation details and ongoing development updates.
+-   [`leaffliction`](https://github.com/jaimeol/leaffliction): AI-based Python project for plant leaf disease detection and classification using PyTorch and computer vision tooling.
 
 
 ### 💡 About Me
