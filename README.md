@@ -50,8 +50,8 @@
 
 ### 🤖 AI & Data Science
 
--   [`leaffliction`](https://github.com/jaimeol/leaffliction): AI-based Python project for plant leaf disease detection and classification using PyTorch and computer vision tooling.
 -   [`ft_linear_regression`](https://github.com/jaimeol/ft_linear_regression): Introductory machine learning project implementing linear regression for predictive data analysis.
+-   [`leaffliction`](https://github.com/jaimeol/leaffliction): AI-based Python project for plant leaf disease detection and classification using PyTorch and computer vision tooling.
 
 
 ### 💡 About Me
