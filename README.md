@@ -41,6 +41,8 @@
 #### ☕ Java & Design Patterns
 
 -   [`avaj-launcher`](https://github.com/jaimeol/avaj-launcher): Flight simulation system in Java implementing the **Observer**, **Factory**, and **Singleton** design patterns to manage aircraft behavior under dynamic weather conditions.
+-   [`Swingy`](https://github.com/jaimeol/Swingy): Java RPG project built with Swing following an MVC-style architecture.
+-   [`Fix-Me`](https://github.com/jaimeol/Fix_me): Java-based project focused on code quality and architectural refactoring practices.
 
 #### 🌐 Networking & Full Stack Development
 
