@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jaime!
 
--   🎓 Student at 42 Madrid & Computer Engineering Undergraduate at UNED.
+-   🎓 Student at 42 Madrid & Computer Engineering Undergraduate at Universidad Politecnica de Madrid(UPM).
 -   💻 Focused on systems programming, web server development, and backend infrastructure.
 -   🛠️ Experienced in building software from fundamental components, including libraries, shells, graphical engines, and web applications.
 -   🌱 Currently deepening expertise in networking protocols, Linux systems development, and advanced C++ patterns.
