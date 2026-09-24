@@ -58,7 +58,7 @@
 
 ### 💡 About Me
 
--   🎓 Dual focus on practical software engineering through 42 Madrid and theoretical computer science fundamentals via UNED.
+-   🎓 Dual focus on practical software engineering through 42 Madrid and theoretical computer science fundamentals via UPM.
 -   ⚙️ Strong interest in the underlying mechanisms of operating systems, networking, and distributed systems.
 -   🐧 Proficient in Linux environments and adept at utilizing C, C++, and system APIs for low-level development.
 -   🚀 Enthusiastic about building robust backend systems and infrastructure tooling using modern practices like containerization with Docker.
